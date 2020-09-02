@@ -1,0 +1,100 @@
+body{
+    background-image:url("BG/00.png");
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+h1{
+    font-family: Arial;
+    font-size:10;
+    margin-left: 25px;
+}
+h2{
+    font-family: Arial;
+    font-size:10;
+    margin-left: 25px;
+    color:#3a3a3a;
+}
+.WhiteBG{
+    background-image:url("BG/99.png");
+    background-color: rgba(0,0,0,0); /* rgbA */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    position: relative;
+}
+.tabla{
+    margin-left: 25px;
+    margin-right: 30px;
+    border:solid 1px #3a3a3a;
+}
+a{  
+    float: left;
+    font-family: Arial;
+    font-size:17px;
+    
+}
+.TextoColumna{
+    float: right;
+    width: 200px;
+}
+p{
+    font-family: Arial;
+    font-size:15px;
+}
+h3{
+    font-size:1px;
+}
+.Titulos{
+    text-align:center;
+}
+.UNIELTitle{
+    background-color: rgba(75, 20, 107,1);
+}
+.UNIELArtc{
+    background-color: rgba(75, 20, 107,.5);
+}
+.ABTitle{
+    background-color: rgb(87, 46, 0);
+}
+.ABArtc{
+    background-color: rgba(87, 46, 0, .5);
+}
+.DBFCTitle{
+    background-color: rgb(7, 134, 156);
+}
+.DBFCArtc{
+    background-color: rgba(7, 134, 156, .5);
+}
+.MBTitle{
+    background-color: rgb(110, 1, 77);
+}
+.MBArtc{
+    background-color: rgba(110, 1, 77, .5);
+}
+h4{
+    font-family: Arial;
+    font-size:20px;
+    color: white;
+}
+.ico{
+    margin-left: 25px;
+}
+.introduccion{
+    margin-left: 25px;
+    width: 620px;
+}
+.mini{
+    float: left;
+    width: 100px;
+    height: auto;
+}
+.text{
+    float: left;
+}
+.relleno{
+    float: right;
+}
+.introparrafo{
+    float: left;
+}
